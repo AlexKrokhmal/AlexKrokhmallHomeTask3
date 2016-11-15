@@ -1,0 +1,6 @@
+E:\Programming\C# NICE\2nd try\HomeTask3\HomeTask3\bin\Debug\HomeTask3.exe.config
+E:\Programming\C# NICE\2nd try\HomeTask3\HomeTask3\bin\Debug\HomeTask3.exe
+E:\Programming\C# NICE\2nd try\HomeTask3\HomeTask3\bin\Debug\HomeTask3.pdb
+E:\Programming\C# NICE\2nd try\HomeTask3\HomeTask3\obj\Debug\HomeTask3.csprojResolveAssemblyReference.cache
+E:\Programming\C# NICE\2nd try\HomeTask3\HomeTask3\obj\Debug\HomeTask3.exe
+E:\Programming\C# NICE\2nd try\HomeTask3\HomeTask3\obj\Debug\HomeTask3.pdb
